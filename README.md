@@ -17,7 +17,7 @@ Postal departments receive thousands of complaints every day related to:
 * Staff-related issues
 * Urgent or sensitive cases
 
-Manual classification and response handling often lead to:
+Manual classification and response handling often result in:
 
 * Delays in resolution
 * Poor prioritization
@@ -120,7 +120,7 @@ It processes complaint text using rule-based NLP and sentiment analysis to gener
 
 ## 📁 Project Structure
 
-```
+```text
 postal-solution/
 ├── postal-backend/
 │   ├── server.js
@@ -175,7 +175,7 @@ Frontend runs at: **[http://localhost:5173](http://localhost:5173)**
 
 ## 🌍 Live Demo
 
-Frontend deployed on **GitHub Pages**
+Frontend deployed on GitHub Pages:
 👉 [https://HarshaAppikatla.github.io/postal-solution](https://HarshaAppikatla.github.io/postal-solution)
 
 > ⚠️ Backend APIs run locally for hackathon purposes.
