@@ -99,9 +99,17 @@ To run the full system (Frontend + Backend) on your machine:
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-*(You can add screenshots of your Dashboard here)*
+| **Member Portal (User)** | **Admin Dashboard** |
+|:---:|:---:|
+| ![User Dashboard](https://placehold.co/600x400/2563eb/FFF?text=User+Dashboard&font=roboto) | ![Admin Dashboard](https://placehold.co/600x400/dc2626/FFF?text=Admin+Dashboard&font=roboto) |
+| *Easy Complaint Filing & Tracking* | *Real-time Analytics & Triage* |
+
+| **Tracking Timeline** | **AI Complaint Analysis** |
+|:---:|:---:|
+| ![Tracking](https://placehold.co/600x400/d97706/FFF?text=Live+Tracking&font=roboto) | ![AI Sentiment](https://placehold.co/600x400/059669/FFF?text=AI+Sentiment+Analysis&font=roboto) |
+| *Visual Journey of your Package* | *Auto-Categorization & Priority* |
 
 ---
 **Developed for POSTA-THON 2025**
