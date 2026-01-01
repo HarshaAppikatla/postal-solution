@@ -7,7 +7,7 @@ import UserDashboard from './UserDashboard';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
@@ -29,7 +29,7 @@ const Home = () => (
 
     <div className="text-center max-w-4xl z-10">
       <div className="inline-block px-4 py-1.5 bg-white/10 rounded-full text-xs font-bold tracking-widest uppercase mb-6 backdrop-blur-md border border-white/20">
-        Hackathon 2025 • Team Antigravity
+        POSTA-THON 2025 • Team Antigravity
       </div>
       <h1 className="text-7xl font-black mb-6 tracking-tight leading-tight">
         SmartPost <span className="text-yellow-400">AI</span>
