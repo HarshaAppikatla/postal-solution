@@ -1,7 +1,7 @@
 # SmartPost AI 📮
 ### *Revolutionizing India Post with AI-Driven Grievance Redressal*
 
-![SmartPost AI Banner](https://img.shields.io/badge/Hackathon-2025-blue?style=for-the-badge&logo=github) ![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Stack-MERN%20%2B%20NLP-orange?style=for-the-badge)
+![SmartPost AI Banner](https://img.shields.io/badge/POSTA--THON-2025-blue?style=for-the-badge&logo=github) ![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Stack-MERN%20%2B%20NLP-orange?style=for-the-badge)
 
 ---
 
@@ -104,5 +104,5 @@ To run the full system (Frontend + Backend) on your machine:
 *(You can add screenshots of your Dashboard here)*
 
 ---
-**Developed for Smart India Hackathon 2025**
+**Developed for POSTA-THON 2025**
 *Solving Public Grievances with Intelligence.*
