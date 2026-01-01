@@ -66,6 +66,7 @@ It processes complaint text using **rule-based NLP with sentiment analysis** to 
 
 * Generates category-based, empathetic response templates
 * Reduces manual drafting effort for officers
+* Basic email notifications (OTP / alerts) are supported; advanced notification workflows are planned as future enhancements.
 
 ### 🧠 Feedback Learning (Prototype)
 
@@ -197,13 +198,13 @@ Frontend deployed on GitHub Pages:
 
 ## 🔮 Future Enhancements
 
-* MongoDB / PostgreSQL integration
-* JWT-based authentication & role management
-* Multilingual NLP models
-* ML-based classification (TF-IDF / BERT)
-* Email & SMS notifications
-* Admin analytics dashboard
-* Cloud deployment (Render / AWS / Vercel)
+- Persistent database integration (MongoDB / PostgreSQL)
+- JWT-based authentication & role management
+- Multilingual NLP models
+- ML-based classification (TF-IDF / BERT)
+- Advanced email & SMS notification workflows
+- Admin analytics dashboard
+- Cloud deployment (Render / AWS / Vercel)
 
 ---
 
