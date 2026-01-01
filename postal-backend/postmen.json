@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Rajesh Kumar",
+        "mobile": "+91 9876543210",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg",
+        "area": "Gachibowli - Sector 1",
+        "pincode": "500032",
+        "lat": 17.440080,
+        "lng": 78.348915,
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "mobile": "+91 9123456789",
+        "image": "https://randomuser.me/api/portraits/women/44.jpg",
+        "area": "Hitech City - Cyber Towers",
+        "pincode": "500081",
+        "lat": 17.4474,
+        "lng": 78.3762,
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "name": "Mohammed Ali",
+        "mobile": "+91 9898989898",
+        "image": "https://randomuser.me/api/portraits/men/45.jpg",
+        "area": "Banjara Hills - Road 12",
+        "pincode": "500034",
+        "lat": 17.4138,
+        "lng": 78.4397,
+        "status": "On Duty"
+    },
+    {
+        "id": 4,
+        "name": "Lakshmi Devi",
+        "mobile": "+91 7894561230",
+        "image": "https://randomuser.me/api/portraits/women/65.jpg",
+        "area": "Jubilee Hills - Checkpost",
+        "pincode": "500033",
+        "lat": 17.4326,
+        "lng": 78.4071,
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Vikram Singh",
+        "mobile": "+91 8887776665",
+        "image": "https://randomuser.me/api/portraits/men/22.jpg",
+        "area": "Madhapur - Ayyappa Society",
+        "pincode": "500081",
+        "lat": 17.4486,
+        "lng": 78.3908,
+        "status": "Lunch Break"
+    },
+    {
+        "id": 6,
+        "name": "Anjali Patil",
+        "mobile": "+91 9988776655",
+        "image": "https://randomuser.me/api/portraits/women/29.jpg",
+        "area": "Kondapur - RTO Office",
+        "pincode": "500084",
+        "lat": 17.4622,
+        "lng": 78.3568,
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "name": "Suresh Reddy",
+        "mobile": "+91 7776665554",
+        "image": "https://randomuser.me/api/portraits/men/54.jpg",
+        "area": "Kukatpally - Housing Board",
+        "pincode": "500072",
+        "lat": 17.4875,
+        "lng": 78.4086,
+        "status": "Active"
+    },
+    {
+        "id": 8,
+        "name": "Ravi Teja",
+        "mobile": "+91 6665554443",
+        "image": "https://randomuser.me/api/portraits/men/76.jpg",
+        "area": "Ameerpet - Main Road",
+        "pincode": "500016",
+        "lat": 17.4375,
+        "lng": 78.4484,
+        "status": "On Leave"
+    },
+    {
+        "id": 9,
+        "name": "Sunita Rao",
+        "mobile": "+91 9000011122",
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "area": "Secunderabad - Station Road",
+        "pincode": "500003",
+        "lat": 17.4399,
+        "lng": 78.5019,
+        "status": "Active"
+    },
+    {
+        "id": 10,
+        "name": "Amit Shah",
+        "mobile": "+91 9998887770",
+        "image": "https://randomuser.me/api/portraits/men/85.jpg",
+        "area": "Begumpet - Airport Road",
+        "pincode": "500016",
+        "lat": 17.4447,
+        "lng": 78.4664,
+        "status": "Active"
+    }
+]
