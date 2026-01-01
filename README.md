@@ -4,7 +4,7 @@
 
 SmartPost AI is an intelligent grievance management system designed to help large-scale postal services like **India Post** automatically analyze, categorize, and prioritize customer complaints using NLP-based techniques.
 
-The system reduces manual effort, improves response time, and ensures critical issues are addressed first.
+The system reduces manual effort, improves response time, and ensures that critical issues are addressed first.
 
 ---
 
@@ -17,7 +17,7 @@ Postal departments receive thousands of complaints every day related to:
 * Staff-related issues
 * Urgent or sensitive cases
 
-Manual classification and response handling causes:
+Manual classification and response handling often lead to:
 
 * Delays in resolution
 * Poor prioritization
@@ -27,7 +27,7 @@ Manual classification and response handling causes:
 
 ## 🎯 Objective
 
-Build an AI-powered system that:
+Build an AI-assisted system that:
 
 * Automatically analyzes complaint text
 * Classifies complaints into predefined categories
@@ -39,7 +39,7 @@ Build an AI-powered system that:
 
 ## 💡 Solution Overview
 
-**SmartPost AI** acts as a smart middleware between citizens and postal authorities.
+**SmartPost AI** acts as an intelligent middleware layer between citizens and postal authorities.
 It processes complaint text using rule-based NLP and sentiment analysis to generate structured, actionable insights.
 
 ---
@@ -57,18 +57,18 @@ It processes complaint text using rule-based NLP and sentiment analysis to gener
 
 ### ⚡ Sentiment & Priority Detection
 
-* Sentiment scoring using AFINN-based logic.
-* Automatically marks complaints as **CRITICAL** when negative sentiment combines with urgent keywords (e.g., *medicine*, *passport*, *emergency*).
+* Sentiment scoring using AFINN-based logic
+* Automatically marks complaints as **CRITICAL** when negative sentiment combines with urgent keywords (e.g., *medicine*, *passport*, *emergency*)
 
 ### 🤖 Automated Response Assistance
 
-* Generates category-based, empathetic response templates.
-* Helps reduce manual drafting effort for officers.
+* Generates category-based, empathetic response templates
+* Reduces manual drafting effort for officers
 
 ### 🧠 Feedback Learning (Prototype)
 
-* Admins can correct misclassified complaints.
-* System stores corrections to improve future keyword matching logic.
+* Admins can correct misclassified complaints
+* System stores corrections to improve future keyword matching logic
 
 ---
 
@@ -88,7 +88,7 @@ It processes complaint text using rule-based NLP and sentiment analysis to gener
 * Smart priority queue (urgency-based sorting)
 * SLA breach indicators
 * Auto-response suggestions
-* Postman/task assignment (prototype logic)
+* Postman / task assignment (prototype logic)
 
 ---
 
@@ -157,7 +157,9 @@ npm install
 node server.js
 ```
 
-Backend runs on **[http://localhost:5000](http://localhost:5000)**
+Backend runs at: **[http://localhost:5000](http://localhost:5000)**
+
+---
 
 ### 3️⃣ Start Frontend
 
@@ -167,17 +169,17 @@ npm install
 npm run dev
 ```
 
-Frontend runs on **[http://localhost:5173](http://localhost:5173)**
+Frontend runs at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
 ## 🌍 Live Demo
 
 Frontend deployed on **GitHub Pages**
-👉 [View Live Application](https://HarshaAppikatla.github.io/postal-solution)
+👉 [https://HarshaAppikatla.github.io/postal-solution](https://HarshaAppikatla.github.io/postal-solution)
 
 > ⚠️ Backend APIs run locally for hackathon purposes.
-> Some features operate in **simulation mode** when backend is not connected.
+> Some features operate in **simulation mode** when the backend is not connected.
 
 ---
 
@@ -186,7 +188,7 @@ Frontend deployed on **GitHub Pages**
 * Postal grievance redressal systems
 * Government service automation
 * Complaint triage platforms
-* Hackathon / academic demonstrations
+* Hackathon & academic demonstrations
 * Workflow prioritization systems
 
 ---
@@ -194,7 +196,7 @@ Frontend deployed on **GitHub Pages**
 ## 🔮 Future Enhancements
 
 * MongoDB / PostgreSQL integration
-* JWT-based authentication & roles
+* JWT-based authentication & role management
 * Multilingual NLP models
 * ML-based classification (TF-IDF / BERT)
 * Email & SMS notifications
