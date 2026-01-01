@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "nlp",
+    "smartpost-ai",
+    "backend"
+  ],
+  "author": "Harsha Vardhan Appikatla",
+  "license": "MIT",
+  "description": "Backend API for SmartPost AI - Postal Grievance System",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1",

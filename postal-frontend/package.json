@@ -4,6 +4,15 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://HarshaAppikatla.github.io/postal-solution",
+  "description": "Frontend UI for SmartPost AI - React & Vite",
+  "author": "Harsha Vardhan Appikatla",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "postal-system"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
