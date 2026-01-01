@@ -1,7 +1,7 @@
 # SmartPost AI 📮
 ### *Revolutionizing India Post with AI-Driven Grievance Redressal*
 
-![SmartPost AI Banner](https://img.shields.io/badge/POSTA--THON-2025-blue?style=for-the-badge&logo=github) ![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Stack-MERN%20%2B%20NLP-orange?style=for-the-badge)
+![SmartPost AI Banner](https://img.shields.io/badge/POSTA--THON-2025-blue?style=for-the-badge&logo=github) ![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge) ![Built With](https://img.shields.io/badge/Accelerated%20by-Google%20Antigravity-purple?style=for-the-badge)
 
 ---
 
@@ -106,3 +106,4 @@ To run the full system (Frontend + Backend) on your machine:
 ---
 **Developed for POSTA-THON 2025**
 *Solving Public Grievances with Intelligence.*
+> 🚀 **Note:** This project was architected and built with the assistance of **Google Antigravity**, an advanced agentic coding assistant, demonstrating the power of Human-AI collaboration in rapid software development.
