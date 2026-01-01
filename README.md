@@ -1,10 +1,10 @@
 # 📮 SmartPost AI
 
-### AI-Driven Postal Grievance Analysis & Prioritization System
+### AI-Powered Postal Grievance Analysis & Prioritization System
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NLP](https://img.shields.io/badge/AI-NLP-blueviolet?style=for-the-badge) ![Hackathon](https://img.shields.io/badge/Event-POSTA--THON%202025-ff69b4?style=for-the-badge)
 
-SmartPost AI is an intelligent grievance management system designed to help large-scale postal services like **India Post** automatically analyze, categorize, and prioritize customer complaints using NLP-based techniques.
+SmartPost AI is an **AI-powered** grievance management system designed to help large-scale postal services like **India Post** automatically analyze, categorize, and prioritize customer complaints using **rule-based NLP with sentiment analysis**.
 
 The system reduces manual effort, improves response time, and ensures that critical issues are addressed first.
 
@@ -29,7 +29,7 @@ Manual classification and response handling often result in:
 
 ## 🎯 Objective
 
-Build an AI-assisted system that:
+Build an **AI-powered** system that:
 
 * Automatically analyzes complaint text
 * Classifies complaints into predefined categories
@@ -42,7 +42,7 @@ Build an AI-assisted system that:
 ## 💡 Solution Overview
 
 **SmartPost AI** acts as an intelligent middleware layer between citizens and postal authorities.
-It processes complaint text using rule-based NLP and sentiment analysis to generate structured, actionable insights.
+It processes complaint text using **rule-based NLP with sentiment analysis** to generate structured, actionable insights.
 
 ---
 
